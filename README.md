@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @krispoole
-- 👀 I’m interested in becoming a software engineer.
-- 🌱 I’m currently learning basics, working towards taking a software engineering immersive course.
-- 💞️ I’m looking to collaborate on anything so that I can gain experience.
+- 👀 I’m looking for a full-time software engineering role.
+- 💞️ I’m looking to contribute to Open Source projects.
 - 📫 How to reach me krispoole@pm.me
 
 <!---
