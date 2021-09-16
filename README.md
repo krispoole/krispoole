@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krispoole
-- 👀 I’m looking for a full-time software engineering role.
-- 💞️ I’m looking to contribute to Open Source projects.
-- 📫 How to reach me krispoole@pm.me
+- 👀 I’m looking to get paid for programming
+- 💞️ I’m aspiring to contributing to Open Source projects.
+- 📫 How to reach me: krispoole@pm.me
 
 <!---
 krispoole/krispoole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
